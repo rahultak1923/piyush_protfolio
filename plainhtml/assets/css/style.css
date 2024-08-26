@@ -223,14 +223,18 @@ h6 {
 
 .nav-menu a:hover,
 .nav-menu li:hover>a {
-  width: 100%;
+  width: 80%;
   color: #fff;
 }
+
 
 .nav-menu a:hover span,
 .nav-menu li:hover>a span {
   display: block;
 }
+
+
+
 
 /**
 * Mobile Navigation 
