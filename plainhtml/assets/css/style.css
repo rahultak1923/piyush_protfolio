@@ -155,20 +155,7 @@ h6 {
   overflow-y: auto;
 }
 
-@media (max-width: 991px) {
-  #contect {
-    width: 300px;
-    background: #fff;
-    border-right: 1px solid #e6e9ec;
-    left: -300px;
-  }
-}
 
-@media (min-width: 991px) {
-  #contect {
-    margin-left: 100px;
-  }
-}
 
 /*--------------------------------------------------------------
 # Navigation Menu
