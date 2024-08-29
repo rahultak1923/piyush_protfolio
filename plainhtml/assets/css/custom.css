@@ -7,3 +7,10 @@
 .mb-r{
     margin-bottom: 0.8rem;
 }
+@media screen and (max-width: 990px) {
+    #hero {
+        background-size: 200% 100%;
+        overflow-x: hidden;
+    }
+}
+
